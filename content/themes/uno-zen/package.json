@@ -1,0 +1,71 @@
+{
+  "name": "uno-zen",
+  "description": "Minimalist and Elegant theme for Ghost",
+  "homepage": "https://github.com/kikobeats/uno-zen",
+  "version": "2.5.2",
+  "author": {
+    "name": "Kiko Beats",
+    "url": "https://github.com/kikobeats"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/uno-zen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/uno-zen/issues"
+  },
+  "keywords": [
+    "elegant",
+    "ghost",
+    "minimalism",
+    "theme",
+    "uno",
+    "zen"
+  ],
+  "devDependencies": {
+    "browser-sync": "*",
+    "coffee-script": "*",
+    "gulp": "*",
+    "gulp-add-src": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-changed": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-cssmin": "*",
+    "gulp-header": "*",
+    "gulp-minify-css": "*",
+    "gulp-sass": "*",
+    "gulp-strip-css-comments": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "underscore.string": "*"
+  },
+  "engines": {
+    "node": "~0.12.x"
+  },
+  "license": "MIT",
+  "gitHead": "0fca5308cd20390f685a1f8045cd765b7df5059c",
+  "_id": "uno-zen@2.5.2",
+  "scripts": {},
+  "_shasum": "6d9829566ef1cd6d8ef195a6d07625ed645578d2",
+  "_from": "uno-zen@*",
+  "_npmVersion": "2.14.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "kikobeats",
+    "email": "josefrancisco.verdu@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "kikobeats",
+      "email": "josefrancisco.verdu@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "6d9829566ef1cd6d8ef195a6d07625ed645578d2",
+    "tarball": "http://registry.npmjs.org/uno-zen/-/uno-zen-2.5.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/uno-zen/-/uno-zen-2.5.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
